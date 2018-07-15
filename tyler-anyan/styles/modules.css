@@ -111,6 +111,12 @@ input:valid, textarea:valid {
   list-style: none;
 }
 
+/* ===  EXPORT STYLES === */
+
+.container-export {
+  max-width: 30%;
+}
+
 /* === MEDIA QUERY === */
 
 @media only screen and (min-width: 640px) {
